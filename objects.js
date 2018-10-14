@@ -1,5 +1,5 @@
 var playlist = {
-  De La: 'Come Out And See', 
+  Geezy: 'Come Out And See', 
   The Game: 'Dreams'
 }
 
