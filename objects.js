@@ -1,6 +1,6 @@
 var playlist = {
   Geezy: 'Come Out And See', 
-  The Game: 'Dreams'
+  Game: 'Dreams'
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
